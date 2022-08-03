@@ -1,13 +1,196 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background:blanchedalmond;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.349);
+}
+.bg-navbar{
+  background: #17262A;
+}
+
+.border-transparent{
+  border: 1px solid transparent;
+}
+
+.xxxx{
+  border: 2px solid blanchedalmond;
+}
+.xxxx1{
+  border: 2px solid red;
+}
+.xxxx2{
+  border: 2px solid blue;
+}
+.xxxx3{
+  border: 2px solid black;
+}
+
+.icon-text{
+  font-size: 12px;
+}
+
+.margin-bottom{
+  margin-bottom: 70px;
+  border: 2px solid transparent;
+}
+.margin-top{
+  margin-top: 63px;
+  border: 2px solid transparent;
+}
+
+.clients {
+  padding: 0 0 60px 0;
+}
+.clients .swiper-slide img {
+  opacity: 0.5;
+  transition: 0.3s;
+  filter: grayscale(100);
+}
+.clients .swiper-slide img:hover {
+  filter: none;
+  opacity: 1;
+}
+
+.margin-shop{
+  margin-top: 110px;
+  margin-bottom: 120px;
+}
+.product-title{
+  font-size: 14px;
+  font-weight: bold;
+}
+.product-price{
+  font-size: 9px;
+}
+
+.help-post{
+  border: 1px solid transparent;
+  padding: 5px;
+}
+/* @media (min-width: 768px) {
+  .card img {
+    height: 11em;
+  }
+} */
+
+.help-post:hover{
+  border: 1px solid blue;
+  background: white;
+}
+.notif{
+  width:13px;
+  height: 13px;
+  background: greenyellow;
+  border-radius: 50%;
+  font-size: 6px;
+  color: grey;
+  font-weight: bold;
+}
+
+.font-icon{
+  font-size: 11px;
+}
+
+.dotted{
+  border-top: 3px dotted;
+  border-bottom: 3px dotted;
+}
+
+
+
+
+.track{
+  position: relative;
+  background-color: #ddd;
+  height: 7px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 60px;
+  margin-top: 50px
+}
+.track .step{
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;width: 25%;
+  margin-top: -18px;
+  text-align: center;
+  position: relative
+}
+.track .step.active:before{
+  background: #FF5722
+}
+.track .step::before{
+  height: 7px;
+  position: absolute;
+  content: "";
+  width: 100%;
+  left: 0;
+  top: 18px
+}
+.track .step.active .icon{
+  background: #ee5435;
+  color: #fff
+}
+.track .icon{
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  position: relative;
+  border-radius: 100%;
+  background: #ddd
+}
+.track .step.active .text{
+  font-weight: 400;
+  color: #000
+}
+.track .text{
+  display: block;margin-top: 7px
+}
+
+
+.templateContainer{
+  margin: 5% 0;
+}
+.templateContainer > .searchInput_Container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.templateContainer > .searchInput_Container input{
+  width: 50%;
+  padding: 10px;
+  outline: none;
+}
+.templateContainer .template_Container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.templateContainer .template_Container .template{
+  background-color: white;
+  margin: 30px;
+  padding: 0px 20px;
+}
+.templateContainer .template_Container .template img{
+  height: 250px;
 }

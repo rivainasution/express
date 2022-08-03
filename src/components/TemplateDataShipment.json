@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "image": "https://easternprocessing.com.au/wp-content/uploads/2021/04/20191128_090515-1-scaled.jpg",
+        "title": "Eastern Processing",
+        "price": 4200,
+        "before": 4250, 
+        "location": "Jakarta",
+        "Category": "Cargo",
+        "capacity": "50 MT",
+        "time": "12/9/2022"
+    },
+    {
+        "id": 2,
+        "image": "https://www.ckb.co.id/site/uploads/about/5a657c670a6d9-img-logistic-bnner2.jpg",
+        "title": "CKB Group",
+        "price": 2000,
+        "before": 2200, 
+        "location": "Medan",
+        "Category": "Cargo",
+        "capacity": "50 MT",
+        "time": "11/9/2022"
+    },
+    {
+        "id": 3,
+        "image": "https://cisp.cachefly.net/assets/articles/images/resized/0000778379_resized_0000776908coal21022.jpg",
+        "title": "Express",
+        "price": 2300,
+        "before": 2310, 
+        "location": "Jakarta",
+        "Category": "Cargo",
+        "capacity": "40 MT",
+        "time": "13/9/2022"
+    },
+    {
+        "id": 4,
+        "image": "https://static.wixstatic.com/media/ed6a6f_3e88ea3be30347dd99f167a4477c7e97~mv2.jpg/v1/fill/w_560,h_424,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/milele-group-coal-logistics-1710x1097.jpg",
+        "title": "Noben Marketing",
+        "price": 3200,
+        "before": 3300, 
+        "location": "Samarinda",
+        "Category": "Cargo",
+        "capacity": "21 MT",
+        "time": "11/9/2022"
+    },
+    {
+        "id": 5,
+        "image": "https://www.ckb.co.id/site/uploads/slideshow/5a65b7f42e048-logistic-img7-1.jpg",
+        "title": "CKB Group",
+        "price": 5000,
+        "before": 5700, 
+        "location": "Jakarta",
+        "Category": "Cargo",
+        "capacity": "25 MT",
+        "time": "13/9/2022"
+    },
+    {
+        "id": 7,
+        "image": "https://3.imimg.com/data3/OB/XA/MY-3727087/coal-transportation-service-250x250.jpg",
+        "title": "IndiaMart",
+        "price": 4500,
+        "before": 4700, 
+        "location": "Lampung",
+        "Category": "Cargo",
+        "capacity": "15 MT",
+        "time": "17/9/2022"
+    },
+    {
+        "id": 8,
+        "image": "https://5.imimg.com/data5/CP/AA/MY-1407971/img-20170515-wa0002-500x500.jpg",
+        "title": "Ghana Teak Wood",
+        "price": 3200,
+        "before": 3400, 
+        "location": "Jakarta",
+        "Category": "Cargo",
+        "capacity": "25 MT",
+        "time": "14/9/2022"
+    },
+    {
+        "id": 9,
+        "image": "https://5.imimg.com/data5/FJ/DJ/MY-3736036/ghana-teak-wood-500x500.jpg",
+        "title": "Albasindo",
+        "price": 2000,
+        "before": 2100, 
+        "location": "Surabaya",
+        "Category": "Cargo",
+        "capacity": "35 MT",
+        "time": "13/9/2022"
+    }
+]

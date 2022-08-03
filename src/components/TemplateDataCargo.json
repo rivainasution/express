@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "image": "https://dam.krohne.com/t_ar43_cr_c//e_trim:0/w_700/q_auto/dpr_3.0/f_auto/d_im-other:image-not-available.png/im-contract-photography/orange-black-loaded-container-ship-harbour.jpg",
+        "title": "Krohne Belgium",
+        "price": 10000,
+        "before": 12000, 
+        "location": "Jakarta",
+        "Category": "Shipment",
+        "size": "1 MT",
+        "time": "17/9/2022"
+    },
+    {
+        "id": 2,
+        "image": "https://images.maritimeprofessional.com/images/maritime/england-least-containers-heavy-coast-115316.jpg",
+        "title": "APL England",
+        "price": 10000,
+        "before": 11000, 
+        "location": "Makassar",
+        "Category": "Shipment",
+        "size": "6 MT",
+        "time": "15/9/2022"
+    },
+    {
+        "id": 3,
+        "image": "https://zeymarine.com/wp-content/uploads/2020/01/container-ships-zeymarine-blog.jpg",
+        "title": "Zey Marine",
+        "price": 8000,
+        "before": 9200, 
+        "location": "Banten",
+        "Category": "Shipment",
+        "size": "4 MT",
+        "time": "15/9/2022"
+    },
+    {
+        "id": 4,
+        "image": "https://s29755.pcdn.co/wp-content/uploads/2019/08/MSC-Gulsun-containership-container-ship-boxship-boxship-supplied-credit-MSC.jpg.optimal.jpg",
+        "title": "MSC Gulsun",
+        "price": 9200,
+        "before": 10000, 
+        "location": "Medan",
+        "Category": "Shipment",
+        "size": "3 MT",
+        "time": "16/9/2022"
+    },
+    {
+        "id": 5,
+        "image": "https://static.euronews.com/articles/stories/06/44/94/04/1440x810_cmsv2_6a33b6b9-7376-5c9b-a4e2-9c538fc51e97-6449404.jpg",
+        "title": "Maersk Line",
+        "price": 9000,
+        "before": 9700, 
+        "location": "Medan",
+        "Category": "Shipment",
+        "size": "2 MT",
+        "time": "17/9/2022"
+    },
+    {
+        "id": 6,
+        "image": "https://zeymarine.com/wp-content/uploads/2020/01/container-ships-zeymarine-blog.jpg",
+        "title": "X-Press",
+        "price": 8000,
+        "before": 8700, 
+        "location": "Surabaya",
+        "Category": "Shipment",
+        "size": "3 MT",
+        "time": "15/9/2022"
+    },
+    {
+        "id": 7,
+        "image": "https://www.mining-technology.com/wp-content/uploads/sites/19/2020/07/Image-1-Santa-Maria-Silver-and-Gold-Project.jpg",
+        "title": "Santa Maria",
+        "price": 5000,
+        "before": 5600, 
+        "location": "Surabaya",
+        "Category": "Shipment",
+        "size": "5 MT",
+        "time": "13/9/2022"
+    },
+    {
+        "id": 8,
+        "image": "https://www.investopedia.com/thmb/XGi4YChaqxnkOSvQHPu66sf5ptY=/680x440/filters:fill(auto,1)/gold_mine_shutterstock_592460030-e6e743db4baf4692bbdb754bdb39640b.jpg",
+        "title": "Scot Forge",
+        "price": 4500,
+        "before": 4700, 
+        "location": "Surabaya",
+        "Category": "Shipment",
+        "size": "6 MT",
+        "time": "14/9/2022"
+    }
+]
