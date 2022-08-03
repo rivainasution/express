@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/express/static/css/main.f69fbf6a.css",
+    "main.js": "/express/static/js/main.77324423.js",
+    "static/media/banner6.jpg": "/express/static/media/banner6.4f2e8e72aa861d98f78f.jpg",
+    "static/media/mastercard.png": "/express/static/media/mastercard.e05b03ef51106b7c3081.png",
+    "static/media/banner8.jpg": "/express/static/media/banner8.02eb80decd7f04200c97.jpg",
+    "static/media/portfolio-details-2.jpg": "/express/static/media/portfolio-details-2.c121dde6bee8907d77cc.jpg",
+    "static/media/portfolio-details-1.jpg": "/express/static/media/portfolio-details-1.a20082bacf380393d942.jpg",
+    "static/media/banner7.jpg": "/express/static/media/banner7.054069754739f1775d0a.jpg",
+    "static/media/nikel.jpeg": "/express/static/media/nikel.082d5bbd4f9538083fa0.jpeg",
+    "static/media/profil.jpg": "/express/static/media/profil.e8f369ca5c2fa94320db.jpg",
+    "static/media/visa.png": "/express/static/media/visa.d4fe171107a8b2435254.png",
+    "static/media/ribbon3.png": "/express/static/media/ribbon3.2af317a55c5fe53ea07f.png",
+    "static/media/portfolio-details-3.jpg": "/express/static/media/portfolio-details-3.115fe3ee2691e4738d7b.jpg",
+    "static/media/favicon.png": "/express/static/media/favicon.6a3e4b3e58a744f15495.png",
+    "static/media/amex.png": "/express/static/media/amex.7b0ec487b3cefd6a0c11.png",
+    "static/media/slick.svg": "/express/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/express/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/express/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/express/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/express/index.html",
+    "main.f69fbf6a.css.map": "/express/static/css/main.f69fbf6a.css.map",
+    "main.77324423.js.map": "/express/static/js/main.77324423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69fbf6a.css",
+    "static/js/main.77324423.js"
+  ]
+}
